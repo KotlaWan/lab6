@@ -1,0 +1,60 @@
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.deps.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.dev.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csprojResolveAssemblyReference.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csproj.CoreCompileInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfoInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfo.cs
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.pdb
+d:\6s\ИГГИ\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll.config
+d:\6s\ИГГИ\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.deps.json
+d:\6s\ИГГИ\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.json
+d:\6s\ИГГИ\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.dev.json
+d:\6s\ИГГИ\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll
+d:\6s\ИГГИ\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.pdb
+d:\6s\ИГГИ\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csprojAssemblyReference.cache
+d:\6s\ИГГИ\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csproj.CoreCompileInputs.cache
+d:\6s\ИГГИ\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfoInputs.cache
+d:\6s\ИГГИ\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfo.cs
+d:\6s\ИГГИ\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.dll
+d:\6s\ИГГИ\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.pdb
+d:\6s\ИГИ\lab1\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csprojAssemblyReference.cache
+d:\6s\ИГИ\lab1\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csproj.CoreCompileInputs.cache
+d:\6s\ИГИ\lab1\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfoInputs.cache
+d:\6s\ИГИ\lab1\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfo.cs
+d:\6s\ИГИ\lab1\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.dll
+d:\6s\ИГИ\lab1\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.pdb
+d:\6s\ИГИ\lab1\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll.config
+d:\6s\ИГИ\lab1\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.deps.json
+d:\6s\ИГИ\lab1\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.json
+d:\6s\ИГИ\lab1\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.dev.json
+d:\6s\ИГИ\lab1\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll
+d:\6s\ИГИ\lab1\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.pdb
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll.config
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.deps.json
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.json
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.pdb
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.dll
+C:\Users\Lenovo\Downloads\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.pdb
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll.config
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.deps.json
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.json
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.runtimeconfig.dev.json
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.dll
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\bin\Debug\netcoreapp2.0\laba6.pdb
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csprojAssemblyReference.cache
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.csproj.CoreCompileInputs.cache
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfoInputs.cache
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.AssemblyInfo.cs
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.dll
+d:\6s\ИГИ\lab1\laba6(1)\laba6\laba6\obj\Debug\netcoreapp2.0\laba6.pdb
